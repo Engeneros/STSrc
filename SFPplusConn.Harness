@@ -1,0 +1,3 @@
+CML=IO_P,IO_N
+I2C=SCL,SDA
+SFP_SRV_IO=TxFault,TxDis,RxLos,ModDef,RS0,RS1
