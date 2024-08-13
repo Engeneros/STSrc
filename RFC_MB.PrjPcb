@@ -718,23 +718,6 @@ GenerateClassCluster=0
 DocumentUniqueId=HTUMHBEJ
 
 [Document41]
-DocumentPath=CrBrd\LDO_Hall.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=45
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MAJJBDNU
-
-[Document42]
 DocumentPath=CrBrd\DCDC_int.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -751,24 +734,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OARYLHDQ
 
-[Document43]
-DocumentPath=CrBrd\LDO_int.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=46
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TSBFBOJS
-
-[Document44]
+[Document42]
 DocumentPath=CrBrd\DCDC_DDS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -785,7 +751,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WQBEWSVU
 
-[Document45]
+[Document43]
 DocumentPath=CrBrd\DCDC_Slow.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -802,24 +768,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TFAEEFOC
 
-[Document46]
-DocumentPath=CrBrd\LDO_DDS.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=44
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VEERPHHY
-
-[Document47]
+[Document44]
 DocumentPath=DCP_DC_DC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
